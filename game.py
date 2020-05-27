@@ -84,7 +84,7 @@ while(running):
 
     if enemy_react.left < 64:
         enemies.pop(index)
-        print("WOI KESERANG DONG !!! ")
+        print("WOI KESERANG DONG WOIIIIIIIIIIIII!!! ")
 
     index_arrow = 0
     for bullet in arrows:
